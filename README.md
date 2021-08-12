@@ -1,8 +1,9 @@
 # ML-perovskites
-This repository contains code (Jupyter notebooks) and data for the publication "A Machine Learning Roadmap for Perovskite Photovoltaics."
+This repository contains code (Jupyter notebooks) and data for the publication "Machine Learning Roadmap for Perovskite Photovoltaics."
 
-Citation:
-*INSERT CITATION HERE ONCE PUBLISHED*
+Citation: Srivastava, M.; Howard, J. M.; Gong, T.; Dias, M. R. S.; Leite, M. S. Machine Learning Roadmap for Perovskite Photovoltaics. _J. Phys. Chem. Lett._ **2021**, _12_, 7866–7877. DOI: 10.1021/acs.jpclett.1c01961
+
+Group website: https://www.leite-lab.com/
 
 ## Table of Contents
 - Installation
